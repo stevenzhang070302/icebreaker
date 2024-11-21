@@ -1,0 +1,302 @@
+{
+	"public_identifier": "stevenzhang070302",
+	"profile_pic_url": "https://media.licdn.com/dms/image/D5603AQHvyht_MsolYw/profile-displayphoto-shrink_400_400/0/1686540537947?e=1721865600&v=beta&t=V-odWSPK1L8jXbdmVuU9e5eL5LeMtmvyEM8Vc5fM8kI",
+	"background_cover_image_url": null,
+	"first_name": "Steven",
+	"last_name": "Zhang",
+	"full_name": "Steven Zhang",
+	"follower_count": 574,
+	"occupation": "Startup Founder at Georgia Tech CREATE-X",
+	"headline": "CS @ Georgia Tech | Ex-Data intern @ KPMG, Slalom",
+	"summary": "\\ud83d\\udc68\\u200d\\ud83d\\udcbb Steven Zhang | Computer Science Undergraduate at Georgia Tech | Data Scientist\\n\\n\\ud83c\\udf1f Passionate about Machine Learning, Deep Learning, and Innovative Software Solutions | Currently Exploring Large Language Models & Flutter Development\\n\\n\\ud83d\\udcbc Open to Networking with Industry Professionals & Like-minded Peers about Tech!",
+	"country": "US",
+	"country_full_name": "United States of America",
+	"city": "Atlanta Metropolitan Area",
+	"state": null,
+	"experiences": [{
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2024
+		},
+		"ends_at": null,
+		"company": "Georgia Tech CREATE-X",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/create-x",
+		"company_facebook_profile_url": null,
+		"title": "Startup Founder",
+		"description": null,
+		"location": "Atlanta, Georgia, United States \\u00b7 On-site",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/create-x/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240525%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240525T221544Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=5d58158bfcef014e79d8091b7e39327f92d00a26d97cca14250480cc38581a1e"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2024
+		},
+		"ends_at": null,
+		"company": "Georgia Tech iOS Club",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/georgia-tech-ios-club",
+		"company_facebook_profile_url": null,
+		"title": "iOS App Developer",
+		"description": null,
+		"location": "Atlanta, Georgia, United States \\u00b7 On-site",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/georgia-tech-ios-club/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240525%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240525T221544Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f8a4bed6c6267603e45f669037049d9ec6fbef83001e865b1fb0768a14407b59"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2023
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2023
+		},
+		"company": "Georgia Institute of Technology",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/georgia-institute-of-technology",
+		"company_facebook_profile_url": null,
+		"title": "Undergraduate Research Assistant - Data 2 Insights Lab",
+		"description": "- Conducted in-depth research under Prof. Kexin Rong to explore data cleaning task transferability across machine learning settings, utilizing Python, scikit-learn, pandas, and plot.ly, focusing on assessing the effectiveness of various techniques.\\n- Designed and implemented 3 experiments to rigorously test hypotheses on data cleaning task transferability across different machine learning contexts.",
+		"location": "Atlanta, Georgia, United States \\u00b7 On-site",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/georgia-institute-of-technology/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240525%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240525T221544Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f0cd67cb942bdac57ad4b82a5bb3d5016f39cf426803b4f3b20fd3de41c0e1a8"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 6,
+			"year": 2023
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 8,
+			"year": 2023
+		},
+		"company": "KPMG US",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/kpmg-us",
+		"company_facebook_profile_url": null,
+		"title": "Data Science Intern",
+		"description": "- Developed and implemented regression and classification models using Python (Scikit-learn, Pandas, Numpy, Matplotlib) to automate audit examinations for a government healthcare client, ensuring model transparency and providing clear, understandable explanations of risk assessments.\\n- Enhanced audit risk forecasting through advanced Bayesian statistics experiments, including Monte Carlo Markov Chains, achieving an 8% increase in predictive accuracy (R-squared from 0.69 to 0.77).\\n- Designed and engineered an innovative automated data pipeline dashboard using Python and DASH, significantly reducing the Quality Assurance Team's manual workload through streaming data processing and real-time analytics.\\n- Implemented advanced async callback functions to enhance interactivity in dashboard development, improving data presentation and analysis.\\n- Led the integration of key dashboard features, including file uploads, interactive checklists, and real-time status monitoring, dramatically improving automation, usability, and productivity.\\n- Utilized a rigorous code refactoring process to ensure adherence to object-oriented standards and swiftly integrated PR (Pull Request) feedback, significantly elevating code quality and maintainability.",
+		"location": "Tysons Corner, Virginia, United States \\u00b7 On-site",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/kpmg-us/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240525%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240525T221544Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d61d0e51d59a52db734dd3021e9b31bd68f9cb946f058b9a40ffde3f10fb3ab1"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2022
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 7,
+			"year": 2022
+		},
+		"company": "Slalom",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/slalom-consulting",
+		"company_facebook_profile_url": null,
+		"title": "Data Engineer Intern",
+		"description": "- Developed a Python, PySpark, pandas, AWS Glue, and AWS Athena schema inference service to automate data type recommendations, boosting productivity for software engineers and data scientists.\\n- Initiated discussions with UI/UX and API teams to integrate schema inference into the client's Data Lake, streamlining data handling for over 1500 production datasets.\\n- Designed and developed a dataset test case generator, elevating Schema Inference test coverage to meet rigorous standards.\\n- Implemented Agile methodologies, facilitating the smooth execution of project workflows, and adeptly delivered compelling presentations to clients while efficiently incorporating their feedback.\\n- Authored detailed documentation and diagrams on Confluence, ensuring comprehensive project documentation for future reference and clarity.",
+		"location": "Atlanta, Georgia, United States",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/slalom-consulting/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240525%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240525T221544Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=44ef018d1641c2e2943db2e9c0c9d0e14b622c7120f899eadd56fb8664c28873"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 6,
+			"year": 2020
+		},
+		"ends_at": {
+			"day": 30,
+			"month": 6,
+			"year": 2020
+		},
+		"company": "Cisco",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/cisco",
+		"company_facebook_profile_url": null,
+		"title": "Software Engineer Extern",
+		"description": "- Led brainstorming sessions within a team to propose innovative POC solutions aimed at enhancing engagement in Virtual Learning Environments.\\n- Created a PoC ML Tutor using TensorFlows Artificial Neural Networks to predict student grades from study-time and attendance data, effectively measuring engagement in virtual learning.\\n- Collaborated in teams to present POC solutions, informing over 5 Cisco Senior Engineers about Virtual Learning Environment opportunities.",
+		"location": "Lawrenceville, Georgia, United States",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/cisco/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240525%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240525T221544Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=13fab7e476597614232c11a1966bed045b8685dcbac18f0e3c1348c66d530f0e"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2020
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 5,
+			"year": 2020
+		},
+		"company": "VDart Digital",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/dimiour",
+		"company_facebook_profile_url": null,
+		"title": "Software Engineer Intern",
+		"description": "- Developed a social network platform with HTML, CSS, Vue.js, PHP, and PostgreSQL to connect 15+ local minority businesses in Georgia, fostering collaboration and talent acquisition.\\n- Created a dynamic Profile-page within the platform to manage profile data, posts, reactions, and contact information for local businesses.",
+		"location": "Alpharetta, Georgia, United States",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/dimiour/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240525%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240525T221544Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ec0bb5f31d9ff16e2497f706012a5563763ebe1efa5e1fb9c7d94e3602fa3528"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 6,
+			"year": 2019
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 8,
+			"year": 2019
+		},
+		"company": "VDart Digital",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/dimiour",
+		"company_facebook_profile_url": null,
+		"title": "Software Engineer Intern",
+		"description": "Engineered Python-based IoT devices for air and water quality monitoring using Arduino Microcontrollers, contributing significantly to the Trichy, India Smart City initiative.\\n- Designed precise circuit diagrams for IoT devices, a cornerstone in the Smart City initiatives success.\\n Developed C++ functions in Arduino IDE to enable real-time data collection for various environmental parameters, including Air Temp, CO PPM, Water Temp, and Turbidity.\\n Developed a Flutter PoC app for location data, contributing to the Smart City Transit initiative.\\n Collaborated with cross-functional teams to conceptualize and present innovative Smart City proposals to VDart Inc. CEO, demonstrating problem-solving acumen and teamwork.",
+		"location": "Greater Atlanta Area",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/dimiour/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240525%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240525T221544Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ec0bb5f31d9ff16e2497f706012a5563763ebe1efa5e1fb9c7d94e3602fa3528"
+	}],
+	"education": [{
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2024
+		},
+		"field_of_study": "Computer Science",
+		"degree_name": "Bachelor of Science - BS",
+		"school": "Georgia Institute of Technology",
+		"school_linkedin_profile_url": "https://www.linkedin.com/company/georgia-institute-of-technology",
+		"school_facebook_profile_url": null,
+		"description": "Concentration in Intelligence and Info/Internetworks Thread",
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQFuhLQoh5_7yA/company-logo_400_400/0/1640110532212/georgia_institute_of_technology_logo?e=1724889600&v=beta&t=OSSjdys6qhPXTnyaH3uik1wn2ufQuTRqgF47WqurwEk",
+		"grade": null,
+		"activities_and_societies": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2020
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2021
+		},
+		"field_of_study": "Data Science",
+		"degree_name": "Bachelor of Science - BS",
+		"school": "The University of Georgia",
+		"school_linkedin_profile_url": "https://www.linkedin.com/company/166638/",
+		"school_facebook_profile_url": null,
+		"description": "Transferred",
+		"logo_url": "https://media.licdn.com/dms/image/D560BAQE-PbmFpTkcrQ/company-logo_400_400/0/1687803751321/university_of_georgia_logo?e=1724889600&v=beta&t=AYMFJyuoAUPgcUzQzgbVqrMQAgeR8YEowb7G9bZssI0",
+		"grade": null,
+		"activities_and_societies": "UGA Data Science Competition, Deep Learning @ UGA, Codehub @ UGA"
+	}],
+	"languages": ["Chinese(Mandarin)", "English"],
+	"accomplishment_organisations": [],
+	"accomplishment_publications": [],
+	"accomplishment_honors_awards": [],
+	"accomplishment_patents": [],
+	"accomplishment_courses": [{
+		"name": "Data Structures and Algorithms",
+		"number": "CS 1332"
+	}, {
+		"name": "Design and Analysis of Algorithms",
+		"number": "CS 3510"
+	}],
+	"accomplishment_projects": [{
+		"starts_at": null,
+		"ends_at": null,
+		"title": "Flutter-Firebase Flash Chat Messaging",
+		"description": "Developed an instant messaging app, utilizing Flutter for an intuitive front-end and Firebase for backend functionalities, including user authentication and real-time message handling.",
+		"url": null
+	}, {
+		"starts_at": null,
+		"ends_at": null,
+		"title": "Graph Neural Network for Social Network Analysis",
+		"description": "Developed a GNN model with PyTorch Geometric to identify key political groups in social networks, achieving a 12% improvement in accuracy over Spectral Clustering.",
+		"url": null
+	}],
+	"accomplishment_test_scores": [],
+	"volunteer_work": [],
+	"certifications": [{
+		"starts_at": {
+			"day": 1,
+			"month": 6,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Practical Python for Data Professionals",
+		"license_number": null,
+		"display_source": "www.linkedin.com",
+		"authority": "LinkedIn",
+		"url": "https://www.linkedin.com/learning/certificates/289890b513b2687a4de22397fbb6ad559e36b52d3bfb0fdce238e255263b3310"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2023
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 1,
+			"year": 2026
+		},
+		"name": "AWS Certified Cloud Practitioner",
+		"license_number": null,
+		"display_source": "www.credly.com",
+		"authority": "Amazon Web Services (AWS)",
+		"url": "https://www.credly.com/badges/3809d3dc-9404-41ae-bba8-054b3903fad7/linked_in_profile"
+	}],
+	"connections": 574,
+	"people_also_viewed": [{
+		"link": "https://www.linkedin.com/in/abhiram-bharatham-8059a5179?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACpTzEUBavFIlAfIq69gO4Gr3PpzynX7W9Q",
+		"name": "Abhiram Bharatham",
+		"summary": "TPM Intern @ NVIDIA | Fellow @ Unusual  | CS @ Georgia Tech",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/dyjustinkim?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC4XBtcBYKXKYoH1gE3SAu7KYVOcPrZp3nI",
+		"name": "Justin Kim",
+		"summary": "Computer Science Major @ Georgia Tech",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/pranavbatchu?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADKjk2YB3xpj-IEToeoTauQGeiBp1oVs-Oc",
+		"name": "Pranav Batchu",
+		"summary": "CS + Math @ Georgia Tech",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/rishab-paruchuri?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADwX87ABlkuE1vff4fKMfisEXqNuhy6a-Ss",
+		"name": "Rishab Paruchuri",
+		"summary": "Data Science & Analytics Intern - John Deere Intelligent Solutions Group | CS @ Georgia Tech \\u201826",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/royschung?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAExAjgsBv7I_lmvX0FW0Dw37srqToK6x2Es",
+		"name": "Roy Chung",
+		"summary": "Computer Science Student at Georgia State University",
+		"location": null
+	}],
+	"recommendations": [],
+	"activities": [],
+	"similarly_named_profiles": [],
+	"articles": [],
+	"groups": [{
+		"profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQGD5XOMoOc0Pg/group-logo_image-shrink_400x400/0/1630997425155?e=1717282800&v=beta&t=EKdB0Y8If2l-wKUnDwxtBBlIj8330ZHbXqUWMj182ks",
+		"name": "Moving into Data with Madhav",
+		"url": "https://www.linkedin.com/groups/13913186"
+	}, {
+		"profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQGvQg1OP_Dj5w/group-logo_image-shrink_400x400/0/1631000918527?e=1717282800&v=beta&t=j5XeqSobxSk8EpRUOuVbnak8PouD_ENvMA265q0ovyw",
+		"name": "CodeDay Alumni and Volunteers",
+		"url": "https://www.linkedin.com/groups/4732099"
+	}],
+	"skills": ["Python (Programming Language)", "Machine Learning", "Data Science", "Software Development", "Data Engineering", "Research", "Data Analysis", "Big Data", "Entrepreneurship", "Langchain", "Deep Learning", "Scikit-Learn", "PySpark", "PyTorch", "Flutter", "Firebase", "Java"],
+	"inferred_salary": {
+		"min": 45000.0,
+		"max": 35000.0
+	},
+	"gender": "male",
+	"birth_date": null,
+	"industry": null,
+	"extra": null,
+	"interests": [],
+	"personal_emails": [],
+	"personal_numbers": []
+}

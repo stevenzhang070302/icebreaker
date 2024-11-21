@@ -76,7 +76,9 @@ Langchain Icebreaker is an AI-powered application that generates personalized ic
 
 ## 📸 Screenshots
 
-![App Screenshot](https://prod-files-secure.s3.us-west-2.amazonaws.com/a129b946-19ed-437b-a5d8-fa7ebfb77ffc/c0ce430f-a51f-4cc7-941f-e22738d26502/Untitled.png)
+![App Screenshot](https://github.com/stevenzhang070302/icebreaker/blob/main/1.png)
+![App Screenshot](https://github.com/stevenzhang070302/icebreaker/blob/main/2.png)
+![Agent Reasoning Screenshot](https://github.com/stevenzhang070302/icebreaker/blob/main/3.png)
 
 ## 🔧 Technologies Used
 
